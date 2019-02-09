@@ -21,7 +21,9 @@ def bonus
   }
 
   #code your solution here:
-
+  romeo = epic_tragedy[:montague]
+  romeo = montague[2]
+  romeo = 
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
