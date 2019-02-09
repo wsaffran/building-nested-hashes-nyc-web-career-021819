@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  romeo = epic_tragedy[:montague]
+  epic_tragedy[:montague][:hero][:status]
   
   
 
